@@ -1,6 +1,6 @@
 
 # subdscann
-[Russian](readme-rus.md) 
+[English](README.md) 
 
 ###                   Subdomain scanner
 <p align="center">
