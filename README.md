@@ -2,6 +2,11 @@
 [Russian](readme-rus.md) 
 
 ###                   Subdomain scanner
+<p align="center">
+    <img alt="Made with Python" src="https://img.shields.io/badge/Made%20with-Python-%23FFD242?logo=python&logoColor=white"> 
+    <img alt="MIT License" src="https://img.shields.io/apm/l/subdscann">
+
+</p>
 > the author of the program does not bear any responsibility for your actions
 
 > This is a BETA version
