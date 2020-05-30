@@ -15,8 +15,23 @@ Subdomain scanner
 ```cmd
 pip3 install requests
 pip3 install loguru
-python3 subdscann.py
+python subdscann.py
 ```
 
 ## Android
+1. Download Termux
+``` bash
+pkg install python
+pip install requests
+pip install loguru
+python subdscann.py
+```
+
 ## All linux types
+1. Install python3
+``` bash
+pip3 install requests
+pip3 install loguru
+sudo python3 subdscann.py
+```
+##### Maded by root.kalihacker
