@@ -1,6 +1,6 @@
 # subdscann
-Subdomain scanner
 [Russian](readme-rus.md) 
+
 ###                   Subdomain scanner
 > the author of the program does not bear any responsibility for your actions
 
