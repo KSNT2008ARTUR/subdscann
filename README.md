@@ -4,9 +4,9 @@ Subdomain scanner
 ###                   Subdomain scanner
 > the author of the program does not bear any responsibility for your actions
 
-## This is a BETA version
+> This is a BETA version
 
-# Run
+#                            Run
 ## Windows
 
 1. Install python3 and add to PATH
