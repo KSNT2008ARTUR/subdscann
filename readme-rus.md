@@ -8,9 +8,10 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
 
 </p>
-> the author of the program does not bear any responsibility for your actions
 
-> This is a BETA version
+> Автор не несет ни какой ответственности за ваши действия
+
+> Это ВЕТА версия!
 
 ![subdscann](https://github.com/KSNT2008ARTUR/subdscann/blob/master/subdscann_demo.png "subdscann")
 
