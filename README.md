@@ -13,12 +13,14 @@
 
 ![subdscann](https://github.com/KSNT2008ARTUR/subdscann/blob/master/subdscann_demo.png "subdscann")
 
-#                            Run
+#                            Запуск
 ## Windows
 
-1. Install python3 and add to PATH
+1. установите python3 и добавте его в PATH
 
-2. type commands:
+2. Склонируйте или скачайте репозитори1
+
+3. Введите комманды:
 ```cmd
 pip3 install requests
 pip3 install loguru
@@ -26,17 +28,21 @@ python subdscann.py
 ```
 
 ## Android
-1. Download Termux
+1. Установите Termux
+2. Откройте termux и введите эти команнды
 ``` bash
 pkg install python
+pkg install git
+git clone git clone https://github.com/KSNT2008ARTUR/subdscann.git
 pip install requests
 pip install loguru
 python subdscann.py
 ```
 
-## All linux types
-1. Install python3
+## Все типы linux
+1. Установите python3 и git
 ``` bash
+git clone git clone https://github.com/KSNT2008ARTUR/subdscann.git
 pip3 install requests
 pip3 install loguru
 sudo python3 subdscann.py
