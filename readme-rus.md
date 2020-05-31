@@ -35,7 +35,7 @@ python subdscann.py
 ``` bash
 pkg install python
 pkg install git
-git clone git clone https://github.com/KSNT2008ARTUR/subdscann.git
+git clone https://github.com/KSNT2008ARTUR/subdscann.git
 pip install requests
 pip install loguru
 python subdscann.py
