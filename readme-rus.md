@@ -44,7 +44,7 @@ python subdscann.py
 ## Все типы linux
 1. Установите python3 и git
 ``` bash
-git clone git clone https://github.com/KSNT2008ARTUR/subdscann.git
+git clone https://github.com/KSNT2008ARTUR/subdscann.git
 pip3 install requests
 pip3 install loguru
 sudo python3 subdscann.py
