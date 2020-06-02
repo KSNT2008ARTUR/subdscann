@@ -2,6 +2,8 @@
 # subdscann
 [English](README.md)  
 
+### ! Кто может пожалуйста пожертвуйте деньгой будем рады любой копейке !
+
 ###                   Subdomain scanner
 <p align="center">
     <img alt="Made with Python" src="https://img.shields.io/badge/Made%20with-Python-%23FFD242?logo=python&logoColor=white"> 
