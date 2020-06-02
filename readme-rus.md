@@ -3,6 +3,7 @@
 [English](README.md)  
 
 ### ! Кто может пожалуйста пожертвуйте деньгой будем рады любой копейке !
+###                 QIWI: +79602864432
 
 ###                   Subdomain scanner
 <p align="center">
