@@ -1,9 +1,9 @@
 
-# subdscann
+#  🔍  subdscann
 [Russian](readme-rus.md) 
 
-#### !!! if this program is useful for you. Thank me:) !!!
-#### to support me click on the bag> [💰💰](qiwi.com/p/79602864432) thank you :) !!!
+#### !!! if this program is useful for you. please thank me:) !!!
+#### to support me click on the bag> [💰💰](https://qiwi.com/p/79602864432) thank you :) !!!
 
 ###                   Subdomain scanner
 <p align="center">
