@@ -1,6 +1,8 @@
 
 # subdscann
 [Russian](readme-rus.md) 
+### ! if this program is useful for you. Feel free to thank me  !
+###         QIWI: +79602864432
 
 ###                   Subdomain scanner
 <p align="center">
