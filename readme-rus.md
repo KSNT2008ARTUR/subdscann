@@ -3,7 +3,7 @@
 [English](README.md)  
 
 ### !!!           Если эта программа вам понравилась можете поддержать меня :)  спасибо :) !!!
-[qiwi](qiwi.com/p/79602864432)        !!!
+[qiwi](https://qiwi.com/p/79602864432)        !!!
 
 ###                   Subdomain scanner
 <p align="center">
