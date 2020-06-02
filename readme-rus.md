@@ -2,6 +2,8 @@
 # subdscann
 [English](README.md)  
 
+### !!!           Если эта программа вам понравилась можете поддержать меня :)   !!!
+[QIWI](qiwi.com/p/79602864432)
 
 ###                   Subdomain scanner
 <p align="center">
